@@ -6,6 +6,12 @@ I'm passionate about music, especially DJ tunes, and I love to explore creativit
 - 📖 Reading novels
 - 📺 Watching animations
 
+### 🎓 Education:
+- **SMKN 6 Pekanbaru**  
+  Major: Rekayasa Perangkat Lunak
+- **UIN Suska**  
+  Major: Teknik Informatika, Class of 2024
+  
 ### 💻 What I'm Learning:
 I'm currently learning a variety of programming languages and technologies:
 - **Frameworks**: CodeIgniter, Flutter
