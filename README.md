@@ -1,35 +1,78 @@
-# Hi there, I'm [Rafandi NF] 👋
+# Hi there, I'm Rafandi Nova Fitra 👋
 
-### 🎶 About Me:
-I'm passionate about music, especially DJ tunes, and I love to explore creativity through different forms of art. In my free time, you'll find me:
-- 🎧 Listening to DJ music
+## 💫 About Me
+I'm an Informatics Engineering student passionate about software development, backend architecture, and modern web technologies.  
+Currently focused on improving my skills in full-stack development while building personal projects and exploring scalable application design.
+
+Outside of coding, I enjoy:
+- 🎧 Listening to music
 - 📖 Reading novels
 - 📺 Watching animations
 
-### 🎓 Education:
-- **SMKN 6 Pekanbaru**  
-  Major: Rekayasa Perangkat Lunak
-- **UIN Suska**  
-  Major: Teknik Informatika, Class of 2024
-  
-### 💻 What I'm Learning:
-I'm currently learning a variety of programming languages and technologies:
-- **Frameworks**: CodeIgniter, Flutter
-- **Languages**: Java, JavaScript, Python, Dart
-- **Web Development**: HTML, CSS, Botostrap
-- **Databases**: MySQL, MongoDB, Firebase
+---
 
-### 🔧 Tools & Skills:
-- Proficient in front-end and back-end development
-- Building web and mobile applications
-- Exploring database management with SQL and NoSQL
-- Implementing Firebase for real-time database and authentication
+## 🎓 Education
+### UIN Suska Riau
+**Bachelor of Informatics Engineering** — Class of 2024
 
-### 🌱 What's Next:
-I’m always looking to improve my skills and take on new challenges. Right now, I’m focusing on mastering full-stack development and contributing to open-source projects.
-
-### 📫 How to Reach Me:
-Feel free to connect or check out my repositories to see what I'm working on!
+### SMKN 6 Pekanbaru
+**Software Engineering (Rekayasa Perangkat Lunak)**
 
 ---
-“Keep coding, keep learning, and keep growing.”
+
+## 🚀 Currently Learning
+- Flutter
+- FastAPI
+- TypeScript
+- Express.js
+- Svelte
+- PostgreSQL
+- Docker
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- TypeScript
+- Python
+- Dart
+
+### Frameworks & Libraries
+- FastAPI
+- Express.js
+- Flutter
+- Svelte
+- CodeIgniter
+
+### Database
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase
+
+### Tools & Technologies
+- Docker
+- Git & GitHub
+- REST API Development
+- SQL & NoSQL Database Design
+
+---
+
+## 🌱 Current Focus
+- Backend development & API architecture
+- Modern frontend development
+- Containerization with Docker
+- Building scalable full-stack applications
+- Improving clean code & software design practices
+
+---
+
+## 📫 Connect With Me
+Feel free to explore my repositories and follow my learning journey through GitHub.
+
+---
+
+> “Keep coding, keep learning, and keep growing.”
